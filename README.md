@@ -4,7 +4,7 @@ wget -N https://raw.githubusercontent.com/Herlic/passwd/master/passwd.sh && chmo
 
 执行命令
 
-./password.sh oldpassword newpassword
+./passwd.sh oldpassword newpassword
 
 说明：
 
@@ -12,4 +12,4 @@ wget -N https://raw.githubusercontent.com/Herlic/passwd/master/passwd.sh && chmo
 
 2、执行命令时，需要传入两个参数，第一个是原密码；第二个是修改后的新密码。
 
-3、serverip.txt 与 password.sh 脚本在同一路径下，且文档中，每行只能有一个服务器ip地址。
+3、serverip.txt 与 passwd.sh 脚本在同一路径下，且文档中，每行只能有一个服务器ip地址。
