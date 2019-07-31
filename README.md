@@ -3,6 +3,7 @@
 wget -N https://raw.githubusercontent.com/Herlic/passwd/master/passwd.sh && chmod +x passwd.sh
 
 执行命令
+
 ./password.sh oldpassword newpassword
 
 说明：
